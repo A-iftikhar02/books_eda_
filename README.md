@@ -18,6 +18,8 @@ Books_EDA_Project/
 
 - README.md # Project overview (this file)
 
+- scraper.py # used to scrapped books data
+
 
 
 
